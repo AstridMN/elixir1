@@ -48,7 +48,7 @@
     "microcrawler-crawler-all": "0.0.18",
     "mocha": "^3.1.0",
     "moment": "^2.15.1",
-    "node-sass": "^3.10.1",
+    "node-sass": "^4.14.1",
     "node.extend": "^1.1.6",
     "phoenix": "file:./deps/phoenix",
     "phoenix_html": "file:./deps/phoenix_html",
